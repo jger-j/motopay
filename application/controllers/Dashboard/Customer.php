@@ -7,13 +7,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  */
 
 /**
- * Description of motorcycle
+ * Description of Customer
  *
  * @author End 
  */
-class motorcycle extends CI_Controller{
+class Customer extends CI_Controller{
+    
+    //put your code here
     public function __construct() {
         parent::__construct();
     }
-    //put your code here
+    
 }
