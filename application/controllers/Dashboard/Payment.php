@@ -11,7 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  *
  * @author End 
  */
-class Paymentcollection extends CI_Controller{
+class Payment extends CI_Controller{
     //put your code here
     public function __construct() {
         parent::__construct();
