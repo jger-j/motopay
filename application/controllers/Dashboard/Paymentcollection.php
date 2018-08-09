@@ -7,13 +7,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  */
 
 /**
- * Description of index
+ * Description of Paymentcollection
  *
  * @author End 
  */
-class Index extends CI_Controller{    
-    public function __construct(){
+class Paymentcollection extends CI_Controller{
+    //put your code here
+    public function __construct() {
         parent::__construct();
-}
-   
+    }
 }
